@@ -1,0 +1,37 @@
+[
+  {
+    "imageUrl": "https://velog.velcdn.com/images/ehdgus8054/post/5a4e66ab-fcfa-4592-8b56-5df9014b467f/image.png",
+    "title": "부트스트랩 Album 클론 코딩",
+    "subtitle": "CSS Flex 연습",
+    "link": "https://velog.io/@ehdgus8054/%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9-Album-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9",
+    "hashtags": ["HTML", "CSS", "Flex Layout"]
+  },
+  {
+    "imageUrl": "https://velog.velcdn.com/images/ehdgus8054/post/00b845d3-01eb-4a44-a15b-d8aa6b5bce9e/image.png",
+    "title": "부트스트랩 Product 클론 코딩",
+    "subtitle": "CSS Grid 연습",
+    "link": "https://velog.io/@ehdgus8054/%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9-Product-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9",
+    "hashtags": ["HTML", "CSS", "Grid Layout"]
+  },
+  {
+    "imageUrl": "https://velog.velcdn.com/images/ehdgus8054/post/b22f6085-3803-46cc-91d6-a097d1ccd8b9/image.png",
+    "title": "부트스트랩 Pricing 클론 코딩",
+    "subtitle": "반응형 레이아웃 연습",
+    "link": "https://velog.io/@ehdgus8054/%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9-Pricing-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9",
+    "hashtags": ["HTML", "CSS", "Media Query", "RWD"]
+  },
+  {
+    "imageUrl": "https://velog.velcdn.com/images/ehdgus8054/post/e702b174-adbf-44a6-a194-b6b16f7c0c30/image.png",
+    "title": "TODO 웹 어플",
+    "subtitle": "자바스크립트에 익숙해지기 위한 프로젝트",
+    "link": "https://velog.io/@ehdgus8054/TODO-%EC%9B%B9-%EC%96%B4%ED%94%8C",
+    "hashtags": ["HTML", "CSS", "JS", "Web Storage"]
+  },
+  {
+    "imageUrl": "https://velog.velcdn.com/images/ehdgus8054/post/a5ddcce1-3839-4560-b372-87bd47c155b6/image.png",
+    "title": "포트폴리오 웹 어플",
+    "subtitle": "취업시 제출할 포트폴리오",
+    "link": "https://velog.io/@ehdgus8054/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%9B%B9",
+    "hashtags": ["HTML", "CSS", "JS", "React", "React Router"]
+  }
+]

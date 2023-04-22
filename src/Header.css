@@ -1,0 +1,7 @@
+.header {
+  display: flow-root;
+  position: relative;
+}
+.header__navbar {
+  margin: 1rem;
+}

@@ -1,0 +1,14 @@
+.header__logo {
+  display: block;
+}
+.logo {
+  margin: 1rem;
+  font-size: 3rem;
+  line-height: 3rem;
+  color: var(--main-font-color);
+  text-align: center;
+}
+
+.logo span {
+  color: var(--main-color);
+}
